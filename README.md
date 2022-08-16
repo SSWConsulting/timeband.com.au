@@ -2,7 +2,7 @@
 
 This website is built by GitHub Pages https://pages.github.com/
 
-## Creating your website
+## Creating your Website
 
 1. In GitHub the upper-right corner of any page, use the drop-down menu, and select New repository.
 2. Enter username.github.io (example - timeband.github.io) as the repository name. Replace username with your GitHub username.
@@ -13,6 +13,6 @@ This website is built by GitHub Pages https://pages.github.com/
 7. When you are done editing the file, click Commit changes.
 8. Visit username.github.io (example - timeband.github.io) to view your new website.
 
-## Pull Request 
+## Pull Requests
 
-Builds or edits are done in the GitHub itself and the Pull Request is created and we can  request the product owner to view and approve the request 
+Builds or edits are done in the GitHub itself and the Pull Request is created and we can  request the Product Owner to view and approve the request 
